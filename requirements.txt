@@ -15,7 +15,7 @@ colorama==0.4.1
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.1
+Django==2.2.10
 dominate==2.4.0
 entrypoints==0.3
 Flask==1.1.1
